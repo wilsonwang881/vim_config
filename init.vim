@@ -11,6 +11,7 @@ Plug 'preservim/nerdtree'
 Plug 'HenryNewcomer/vim-theme-papaya'
 Plug 'octol/vim-cpp-enhanced-highlight'
 Plug 'vim-airline/vim-airline'
+Plug 'tpope/vim-fugitive'
 call plug#end()
 
 " Color theme
